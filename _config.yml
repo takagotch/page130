@@ -1,12 +1,12 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "TKVTV"
+title: "TKVTV"
+description: "取引量No.1！ *当社比"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://takagotch.github.io/page130/
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'takagotch'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -14,16 +14,16 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: tkgcci
+    display_name: tkgcci
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    web: https://takagotch.github.io/
+    twitter: https://twitter.com/takagotch
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
-    display_name: John    
+    name: takagotch
+    display_name: takagotch    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
